@@ -1,0 +1,3 @@
+- Phone📱
+- Computer🖥️
+- Camera📷
